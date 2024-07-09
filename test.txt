@@ -1,2 +1,1 @@
-gitThis file is created in remote directory
-add new line
+This file is created in remote directory
